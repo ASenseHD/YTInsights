@@ -13,9 +13,7 @@ YTInsights operates as follows:
 4. **Wait for YouTube algorithm processing:** Allow a few days for the YouTube algorithm to process and generate analytics for the video.
 5. **Access user information via YouTube Studio metrics:** After the YouTube algorithm has processed the analytics, access user information through YouTube Studio's metrics system.
 
-<br>
-
-![Screenshot of the uploaded video's Metrics (Country and City)](https://github.com/ASenseHD/YTInsights/blob/main/Images/Data1.png?raw=true)
 ![Screenshot of the uploaded video's Metrics (Operating System)](https://github.com/ASenseHD/YTInsights/blob/main/Images/Data2.png?raw=true)
+![Screenshot of the uploaded video's Metrics (Country and City)](https://github.com/ASenseHD/YTInsights/blob/main/Images/Data1.png?raw=true)
 
 This technique assures adherence to YouTube's privacy regulations and terms of service while making it easier to collect user-related data.
