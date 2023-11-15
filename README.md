@@ -1,2 +1,2 @@
 # InsightOSINT
-A simple yet effective OSINT method able to capture user information.
+A simple yet effective method to able to capture user information.
