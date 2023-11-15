@@ -1,6 +1,6 @@
 # YTInsights
 
-YTInsights is a method authored by the ASense Team, licensed under the MIT License, which allows for the extraction of a user's basic information (such as the user's country, city, and operating system) through YouTube analytics.
+YTInsights is a "no-code" method authored by the ASense Team, licensed under the MIT License, which allows for the extraction of a user's basic information (such as the user's country, city, and operating system) through YouTube analytics.
 
 ## How It Works
 
